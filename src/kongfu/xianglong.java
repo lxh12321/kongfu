@@ -11,5 +11,6 @@ public class xianglong {
 	System.out.println("66666");
 	System.out.println("77777");
 	System.out.println("88888");
+	System.out.println("99999");
 	}
 }
